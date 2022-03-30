@@ -1,0 +1,1 @@
+Built with React and React Router, allows user to query the Google Books API and build a list of their books. Authentication handled by Firebase authentication, data stored in Firebase Real Time Database.
